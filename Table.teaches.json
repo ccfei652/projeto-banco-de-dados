@@ -1,0 +1,1400 @@
+[{
+  "_id": {
+    "$oid": "656403e6384d76cf49765af9"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf8"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcc4"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2004
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b05"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc73"
+  },
+  "sec_id": "2",
+  "semester": "Fall",
+  "year": 2003
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765afd"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcea"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2008
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765afa"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf7"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc8c"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2007
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765afb"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe4"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd0b"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2001
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b00"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf8"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc81"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2002
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b02"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf2"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcf1"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2008
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b04"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc8f"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2008
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b06"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc91"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2006
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b09"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbfd"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd22"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2010
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b13"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbd7"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc7b"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2010
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b14"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc05"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc6c"
+  },
+  "sec_id": "2",
+  "semester": "Fall",
+  "year": 2009
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b1a"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcaf"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2006
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b1c"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe4"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc82"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2006
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b1d"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe4"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc88"
+  },
+  "sec_id": "2",
+  "semester": "Fall",
+  "year": 2006
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b1f"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbfb"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc80"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2009
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b20"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbfe"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc95"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2009
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b22"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc05"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcce"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2007
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b24"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf4"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcac"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2002
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b26"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc05"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc6c"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2008
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b28"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbff"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc7c"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2008
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b2b"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc04"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbccd"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2001
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b2c"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf5"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd1c"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2006
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b2d"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcf4"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2004
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b33"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe8"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd1f"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2010
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b37"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe8"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcff"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2001
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b3f"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf5"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbce8"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2002
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b40"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbff"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcfe"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2003
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b42"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe7"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc94"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2002
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b47"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe4"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd10"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2009
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b50"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc78"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2005
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b55"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc72"
+  },
+  "sec_id": "2",
+  "semester": "Spring",
+  "year": 2006
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b58"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc73"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2007
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b5b"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc02"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd0e"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2009
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b0b"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd18"
+  },
+  "sec_id": "2",
+  "semester": "Spring",
+  "year": 2002
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b0c"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbff"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd09"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2009
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b0e"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe4"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc88"
+  },
+  "sec_id": "3",
+  "semester": "Spring",
+  "year": 2008
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b10"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc03"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc9a"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2003
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b17"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc00"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc90"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2005
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b21"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf9"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbce7"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2006
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b25"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe4"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcfc"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2008
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b27"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc67"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2009
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b2a"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc05"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbce5"
+  },
+  "sec_id": "2",
+  "semester": "Spring",
+  "year": 2008
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b2f"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbfb"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc9d"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2007
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b30"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc05"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbce2"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2003
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b36"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd18"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2010
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b3b"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbfe"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc95"
+  },
+  "sec_id": "2",
+  "semester": "Fall",
+  "year": 2002
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b3d"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc05"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc9e"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2001
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b3e"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbdb"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd21"
+  },
+  "sec_id": "2",
+  "semester": "Fall",
+  "year": 2007
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b46"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbce9"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2006
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b49"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbee"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc83"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2008
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b4a"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf2"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc74"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2004
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b4c"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf7"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc8c"
+  },
+  "sec_id": "2",
+  "semester": "Fall",
+  "year": 2002
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b54"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcd8"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2006
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b57"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbfa"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd1d"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2005
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b5c"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe4"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc7f"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2003
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765afc"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc00"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc85"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2003
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765afe"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc01"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbce5"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2008
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b01"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf8"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd12"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2004
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b03"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbdc"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcc6"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2002
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b08"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe4"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcab"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2002
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b12"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbff"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd05"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2010
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b15"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbfd"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbce1"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2007
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b18"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc04"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc79"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2005
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b19"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbec"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd24"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2002
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b1e"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbff"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcdd"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2006
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b29"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf5"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc77"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2009
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b31"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbfe"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc92"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2007
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b32"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc02"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcc3"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2003
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b44"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe4"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc88"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2005
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b4b"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc04"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc7e"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2005
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b4d"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf5"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc6d"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2010
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b4f"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc8b"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2006
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b51"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbea"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc99"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2001
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b52"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc05"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcdf"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2003
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b56"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbfd"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc80"
+  },
+  "sec_id": "2",
+  "semester": "Fall",
+  "year": 2006
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b59"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc05"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcf8"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2002
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765aff"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf7"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd27"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2006
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b07"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbdd"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcf9"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2002
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b0a"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf5"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcda"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2004
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b0d"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf2"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc84"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2007
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b0f"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe4"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbceb"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2004
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b11"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf2"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc84"
+  },
+  "sec_id": "2",
+  "semester": "Spring",
+  "year": 2003
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b16"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbee"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc9f"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2009
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b1b"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc03"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcb1"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2004
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b23"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd29"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2005
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b2e"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbfd"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd21"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2005
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b34"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf1"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc8b"
+  },
+  "sec_id": "2",
+  "semester": "Fall",
+  "year": 2010
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b35"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf7"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbd08"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2007
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b38"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe6"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc7a"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2010
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b39"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc6b"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2007
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b3a"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc05"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc75"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2003
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b3c"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf2"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcb8"
+  },
+  "sec_id": "2",
+  "semester": "Fall",
+  "year": 2002
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b41"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbe6"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcb8"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2007
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b43"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbff"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcfe"
+  },
+  "sec_id": "2",
+  "semester": "Spring",
+  "year": 2010
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b45"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbfe"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcd4"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2010
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b48"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcba"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2003
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b4e"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbc03"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbce0"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2010
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b53"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf0"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbc72"
+  },
+  "sec_id": "1",
+  "semester": "Spring",
+  "year": 2007
+},
+{
+  "_id": {
+    "$oid": "656403e6384d76cf49765b5a"
+  },
+  "instructor_id": {
+    "$oid": "65441f237cc36237fdccbbf2"
+  },
+  "course_id": {
+    "$oid": "65443f887cc36237fdccbcee"
+  },
+  "sec_id": "1",
+  "semester": "Fall",
+  "year": 2003
+}]

@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc08"
+  },
+  "dept_name": "Civil Eng.",
+  "building": "Chandler",
+  "budget": 255041.46
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc09"
+  },
+  "dept_name": "Biology",
+  "building": "Candlestick",
+  "budget": 647610.55
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc0a"
+  },
+  "dept_name": "History",
+  "building": "Taylor",
+  "budget": 699140.86
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc0b"
+  },
+  "dept_name": "Physics",
+  "building": "Wrigley",
+  "budget": 942162.76
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc0c"
+  },
+  "dept_name": "Marketing",
+  "building": "Lambeau",
+  "budget": 210627.58
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc0d"
+  },
+  "dept_name": "Pol. Sci.",
+  "building": "Whitman",
+  "budget": 573745.09
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc0e"
+  },
+  "dept_name": "English",
+  "building": "Palmer",
+  "budget": 611042.66
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc0f"
+  },
+  "dept_name": "Accounting",
+  "building": "Saucon",
+  "budget": 441840.92
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc10"
+  },
+  "dept_name": "Comp. Sci.",
+  "building": "Lamberton",
+  "budget": 106378.69
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc11"
+  },
+  "dept_name": "Languages",
+  "building": "Linderman",
+  "budget": 601283.6
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc12"
+  },
+  "dept_name": "Finance",
+  "building": "Candlestick",
+  "budget": 866831.75
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc13"
+  },
+  "dept_name": "Geology",
+  "building": "Palmer",
+  "budget": 406557.93
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc14"
+  },
+  "dept_name": "Cybernetics",
+  "building": "Mercer",
+  "budget": 794541.46
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc15"
+  },
+  "dept_name": "Astronomy",
+  "building": "Taylor",
+  "budget": 617253.94
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc16"
+  },
+  "dept_name": "Athletics",
+  "building": "Bronfman",
+  "budget": 734550.7
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc17"
+  },
+  "dept_name": "Statistics",
+  "building": "Taylor",
+  "budget": 395051.74
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc18"
+  },
+  "dept_name": "Psychology",
+  "building": "Thompson",
+  "budget": 848175.04
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc19"
+  },
+  "dept_name": "Math",
+  "building": "Brodhead",
+  "budget": 777605.11
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc1a"
+  },
+  "dept_name": "Elec. Eng.",
+  "building": "Main",
+  "budget": 276527.61
+},
+{
+  "_id": {
+    "$oid": "654425727cc36237fdccbc1b"
+  },
+  "dept_name": "Mech. Eng.",
+  "building": "Rauch",
+  "budget": 520350.65
+}]

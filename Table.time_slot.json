@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "65641018384d76cf49775d44"
+  },
+  "time_slot_id": "C",
+  "day": "M",
+  "start_hr": 11,
+  "start_min": 0,
+  "end_hr": 11,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d45"
+  },
+  "time_slot_id": "C",
+  "day": "W",
+  "start_hr": 11,
+  "start_min": 0,
+  "end_hr": 11,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d4d"
+  },
+  "time_slot_id": "F",
+  "day": "R",
+  "start_hr": 14,
+  "start_min": 30,
+  "end_hr": 15,
+  "end_min": 45
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d3e"
+  },
+  "time_slot_id": "A",
+  "day": "M",
+  "start_hr": 8,
+  "start_min": 0,
+  "end_hr": 8,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d41"
+  },
+  "time_slot_id": "B",
+  "day": "M",
+  "start_hr": 9,
+  "start_min": 0,
+  "end_hr": 9,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d43"
+  },
+  "time_slot_id": "B",
+  "day": "F",
+  "start_hr": 9,
+  "start_min": 0,
+  "end_hr": 9,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d40"
+  },
+  "time_slot_id": "A",
+  "day": "F",
+  "start_hr": 8,
+  "start_min": 0,
+  "end_hr": 8,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d47"
+  },
+  "time_slot_id": "D",
+  "day": "M",
+  "start_hr": 13,
+  "start_min": 0,
+  "end_hr": 13,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d48"
+  },
+  "time_slot_id": "D",
+  "day": "W",
+  "start_hr": 13,
+  "start_min": 0,
+  "end_hr": 13,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d49"
+  },
+  "time_slot_id": "D",
+  "day": "F",
+  "start_hr": 13,
+  "start_min": 0,
+  "end_hr": 13,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d4b"
+  },
+  "time_slot_id": "E",
+  "day": "R",
+  "start_hr": 10,
+  "start_min": 30,
+  "end_hr": 11,
+  "end_min": 45
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d4c"
+  },
+  "time_slot_id": "F",
+  "day": "T",
+  "start_hr": 14,
+  "start_min": 30,
+  "end_hr": 15,
+  "end_min": 45
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d4f"
+  },
+  "time_slot_id": "G",
+  "day": "W",
+  "start_hr": 16,
+  "start_min": 0,
+  "end_hr": 16,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d3f"
+  },
+  "time_slot_id": "A",
+  "day": "W",
+  "start_hr": 8,
+  "start_min": 0,
+  "end_hr": 8,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d42"
+  },
+  "time_slot_id": "B",
+  "day": "W",
+  "start_hr": 9,
+  "start_min": 0,
+  "end_hr": 9,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d46"
+  },
+  "time_slot_id": "C",
+  "day": "F",
+  "start_hr": 11,
+  "start_min": 0,
+  "end_hr": 11,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d4a"
+  },
+  "time_slot_id": "E",
+  "day": "T",
+  "start_hr": 10,
+  "start_min": 30,
+  "end_hr": 11,
+  "end_min": 45
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d4e"
+  },
+  "time_slot_id": "G",
+  "day": "M",
+  "start_hr": 16,
+  "start_min": 0,
+  "end_hr": 16,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d50"
+  },
+  "time_slot_id": "G",
+  "day": "F",
+  "start_hr": 16,
+  "start_min": 0,
+  "end_hr": 16,
+  "end_min": 50
+},
+{
+  "_id": {
+    "$oid": "65641018384d76cf49775d51"
+  },
+  "time_slot_id": "H",
+  "day": "W",
+  "start_hr": 10,
+  "start_min": 0,
+  "end_hr": 12,
+  "end_min": 30
+}]
