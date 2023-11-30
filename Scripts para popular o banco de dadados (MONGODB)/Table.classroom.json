@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc41"
+  },
+  "building": "Lamberton",
+  "room_number": "134",
+  "capacity": 10
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc42"
+  },
+  "building": "Chandler",
+  "room_number": "375",
+  "capacity": 10
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc43"
+  },
+  "building": "Fairchild",
+  "room_number": "145",
+  "capacity": 27
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc44"
+  },
+  "building": "Nassau",
+  "room_number": "45",
+  "capacity": 92
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc45"
+  },
+  "building": "Grace",
+  "room_number": "40",
+  "capacity": 34
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc46"
+  },
+  "building": "Whitman",
+  "room_number": "134",
+  "capacity": 120
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc47"
+  },
+  "building": "Lamberton",
+  "room_number": "143",
+  "capacity": 10
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc48"
+  },
+  "building": "Taylor",
+  "room_number": "812",
+  "capacity": 115
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc49"
+  },
+  "building": "Saucon",
+  "room_number": "113",
+  "capacity": 109
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc4a"
+  },
+  "building": "Painter",
+  "room_number": "86",
+  "capacity": 97
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc4b"
+  },
+  "building": "Alumni",
+  "room_number": "547",
+  "capacity": 26
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc4c"
+  },
+  "building": "Alumni",
+  "room_number": "143",
+  "capacity": 47
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc4d"
+  },
+  "building": "Drown",
+  "room_number": "757",
+  "capacity": 18
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc4e"
+  },
+  "building": "Saucon",
+  "room_number": "180",
+  "capacity": 15
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc4f"
+  },
+  "building": "Whitman",
+  "room_number": "434",
+  "capacity": 32
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc50"
+  },
+  "building": "Saucon",
+  "room_number": "844",
+  "capacity": 24
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc51"
+  },
+  "building": "Bronfman",
+  "room_number": "700",
+  "capacity": 12
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc52"
+  },
+  "building": "Polya",
+  "room_number": "808",
+  "capacity": 28
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc53"
+  },
+  "building": "Gates",
+  "room_number": "707",
+  "capacity": 65
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc54"
+  },
+  "building": "Gates",
+  "room_number": "314",
+  "capacity": 10
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc55"
+  },
+  "building": "Main",
+  "room_number": "45",
+  "capacity": 30
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc56"
+  },
+  "building": "Taylor",
+  "room_number": "183",
+  "capacity": 71
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc57"
+  },
+  "building": "Power",
+  "room_number": "972",
+  "capacity": 10
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc58"
+  },
+  "building": "Garfield",
+  "room_number": "119",
+  "capacity": 59
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc59"
+  },
+  "building": "Rathbone",
+  "room_number": "261",
+  "capacity": 60
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc5a"
+  },
+  "building": "Stabler",
+  "room_number": "105",
+  "capacity": 113
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc5b"
+  },
+  "building": "Power",
+  "room_number": "717",
+  "capacity": 12
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc5c"
+  },
+  "building": "Main",
+  "room_number": "425",
+  "capacity": 22
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc5d"
+  },
+  "building": "Lambeau",
+  "room_number": "348",
+  "capacity": 51
+},
+{
+  "_id": {
+    "$oid": "65443d687cc36237fdccbc5e"
+  },
+  "building": "Chandler",
+  "room_number": "804",
+  "capacity": 11
+}]
