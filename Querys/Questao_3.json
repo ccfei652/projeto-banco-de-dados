@@ -1,0 +1,45 @@
+[
+    {
+      $lookup: {
+        from: "student",
+        localField: "dept_name",
+        foreignField: "dept_name",
+        as: "students",
+      },
+    },
+    {
+      $lookup: {
+        from: "instructor",
+        localField: "dept_name",
+        foreignField: "dept_name",
+        as: "instructors",
+      },
+    },
+    {
+      $group: {
+        _id: {
+          dept_name: "$dept_name",
+          budget: "$budget",
+        },
+        num_students: {
+          $sum: {
+            $size: "$students",
+          },
+        },
+        avg_salary: {
+          $avg: {
+            $sum: "$instructors.salary",
+          },
+        },
+      },
+    },
+    {
+      $project: {
+        _id: 0,
+        dept_name: "$_id.dept_name",
+        budget: "$_id.budget",
+        num_students: 1,
+        avg_salary: 1,
+      },
+    },
+  ]
