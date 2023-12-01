@@ -1,0 +1,95 @@
+[
+  {
+    $lookup: {
+      from: "teaches",
+      localField: "_id",
+      foreignField: "instructor_id",
+      as: "teaches",
+    },
+  },
+  {
+    $unwind: "$teaches",
+  },
+  {
+    $lookup: {
+      from: "section",
+      let: {
+        course_id: "$teaches.course_id",
+        sec_id: "$teaches.sec_id",
+        semester: "$teaches.semester",
+        year: "$teaches.year",
+      },
+      pipeline: [
+        {
+          $match: {
+            $expr: {
+              $and: [
+                {
+                  $eq: [
+                    "$course_id",
+                    "$$course_id",
+                  ],
+                },
+                { $eq: ["$sec_id", "$$sec_id"] },
+                {
+                  $eq: [
+                    "$semester",
+                    "$$semester",
+                  ],
+                },
+                { $eq: ["$year", "$$year"] },
+              ],
+            },
+          },
+        },
+      ],
+      as: "section",
+    },
+  },
+  {
+    $unwind: "$section",
+  },
+  {
+    $lookup: {
+      from: "classroom",
+      let: {
+        building: "$section.building",
+        room_number: "$section.room_number",
+      },
+      pipeline: [
+        {
+          $match: {
+            $expr: {
+              $and: [
+                {
+                  $eq: [
+                    "$building",
+                    "$$building",
+                  ],
+                },
+                {
+                  $eq: [
+                    "$room_number",
+                    "$$room_number",
+                  ],
+                },
+              ],
+            },
+          },
+        },
+      ],
+      as: "classroom",
+    },
+  },
+  {
+    $unwind: "$classroom",
+  },
+  {
+    $project: {
+      _id: 0,
+      professor: "$name",
+      building: "$classroom.building",
+      room_number: "$classroom.room_number",
+    },
+  },
+]
