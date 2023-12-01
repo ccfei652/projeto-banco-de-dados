@@ -1,0 +1,142 @@
+[
+    {
+      $lookup: {
+        from: "advisor",
+        localField: "_id",
+        foreignField: "s_id",
+        as: "advisorData",
+      },
+    },
+    {
+      $unwind: "$advisorData",
+    },
+    {
+      $lookup: {
+        from: "instructor",
+        localField: "advisorData.i_id",
+        foreignField: "_id",
+        as: "instructor",
+      },
+    },
+    {
+      $unwind: "$instructor",
+    },
+    {
+      $lookup: {
+        from: "teaches",
+        localField: "instructor._id",
+        foreignField: "instructor_id",
+        as: "teaches",
+      },
+    },
+    {
+      $unwind: "$teaches",
+    },
+    {
+      $lookup: {
+        from: "section",
+  
+        let: {
+          courseID: "$teaches.course_id",
+          secID: "$teaches.sec_id",
+          semester: "$teaches.semester",
+          year: "$teaches.year",
+        },
+        pipeline: [
+          {
+            $match: {
+              $expr: {
+                $and: [
+                  {
+                    $eq: [
+                      "$course_id",
+                      "$$courseID",
+                    ],
+                  },
+                  { $eq: ["$sec_id", "$$secID"] },
+                  {
+                    $eq: [
+                      "$semester",
+                      "$$semester",
+                    ],
+                  },
+                  { $eq: ["$year", "$$year"] },
+                ],
+              },
+            },
+          },
+        ],
+        as: "section",
+      },
+    },
+    {
+      $unwind: "$section",
+    },
+    {
+      $lookup: {
+        from: "takes",
+        let: {
+          studentId: "$advisorData.s_id",
+          sectionId: "$section.sec_id",
+          courseId: "$section.course_id",
+          semester: "$section.semester",
+          year: "$section.year",
+        },
+        pipeline: [
+          {
+            $match: {
+              $expr: {
+                $and: [
+                  {
+                    $eq: [
+                      "$student_id",
+                      "$$studentId",
+                    ],
+                  },
+                  {
+                    $eq: ["$sec_id", "$$sectionId"],
+                  },
+                  {
+                    $eq: [
+                      "$course_id",
+                      "$$courseId",
+                    ],
+                  },
+                  {
+                    $eq: [
+                      "$semester",
+                      "$$semester",
+                    ],
+                  },
+                  { $eq: ["$year", "$$year"] },
+                ],
+              },
+            },
+          },
+        ],
+        as: "takes",
+      },
+    },
+    {
+      $unwind: "$takes",
+    },
+    {
+      $lookup: {
+        from: "course",
+        localField: "takes.course_id",
+        foreignField: "_id",
+        as: "course",
+      },
+    },
+    {
+      $unwind: "$course",
+    },
+    {
+      $project: {
+        _id: 0,
+        studentName: "$name",
+        instructorName: "$instructor.name",
+        courseTitle: "$course.title",
+      },
+    },
+  ]
